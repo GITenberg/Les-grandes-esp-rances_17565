@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37
     wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17565#Les-grandes-esp-rances
 gutenberg_bookshelf:
 - Best Books Ever Listings
 - FR Littérature
